@@ -9,3 +9,12 @@ The live version of this project is hosted at [devopsbible.com](https://devopsbi
 ## Origins
 
 This project evolved from an earlier DevOps guide I created. You can check out the original repository here: [mrn55/how-tos/devops-bible.md](https://github.com/mrn55/how-tos/blob/master/devops-bible.md). DevOps Bible aims to expand on that work, making the content more comprehensive and easily accessible.
+
+## License
+
+This project is dual-licensed:
+
+- **Code**: Licensed under the [MIT License](./LICENSE).
+- **Documentation and Content**: Licensed under [Creative Commons Attribution 4.0 International License (CC BY 4.0)](./LICENSE.docs).
+
+You are free to use, modify, and distribute the code as long as you follow the terms of the MIT license. The written content and documentation are also free to use and adapt, provided you give proper credit under the terms of the Creative Commons license.
