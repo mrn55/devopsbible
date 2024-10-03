@@ -1,0 +1,37 @@
+#googleAnalytics = "UA-XXXXXXXXX-X"
+baseURL = 'https://devopsbible.com/'
+languageCode = 'en-us'
+title = 'DevOps Bible'
+theme = "hugo-book"
+
+#disqusShortname = "my-site"
+
+sectionPagesMenu = 'main'
+
+#enableGitInfo = true
+
+
+[languages]
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content.en'
+  weight = 1
+
+[params]
+  #BookLogo = 'devopsbible-logo.png'
+  #BookRepo = 'https://github.com/alex-shpak/hugo-book'
+  #BookCommitPath = 'commit'
+  #BookEditPath = 'edit/master/exampleSite'
+
+#[menu]
+## [[menu.before]]
+#[[menu.after]]
+#  name = "Github"
+#  url = "https://github.com/alex-shpak/hugo-book"
+#  weight = 10
+#
+#[[menu.after]]
+#  name = "Hugo Themes"
+#  url = "https://themes.gohugo.io/themes/hugo-book/"
+#  weight = 20
+
