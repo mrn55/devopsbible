@@ -45,6 +45,6 @@ We welcome contributions to DevOps Bible! Whether it's adding new content, impro
 - Make sure to cite sources if you're referencing external materials.
 - Run the site locally to verify that your changes render correctly.
 - Be respectful in both your contributions and interactions with others in the community.
-- Understand the license section in [README](./README)
+- Understand the license section in [README](./README.md)
 
 Thank you for helping make DevOps Bible a valuable resource for everyone!
