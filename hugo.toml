@@ -19,9 +19,9 @@ sectionPagesMenu = 'main'
 
 [params]
   #BookLogo = 'devopsbible-logo.png'
-  #BookRepo = 'https://github.com/alex-shpak/hugo-book'
-  #BookCommitPath = 'commit'
-  #BookEditPath = 'edit/master/exampleSite'
+  BookRepo = 'https://github.com/mrn55/devopsbible'
+  BookCommitPath = 'commit'
+  BookEditPath = 'edit/main'
 
 #[menu]
 ## [[menu.before]]
