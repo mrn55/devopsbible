@@ -17,11 +17,11 @@ sectionPagesMenu = 'main'
   contentDir = 'content.en'
   weight = 1
 
-[params]
-  #BookLogo = 'devopsbible-logo.png'
-  BookRepo = 'https://github.com/mrn55/devopsbible'
-  BookCommitPath = 'commit'
-  BookEditPath = 'edit/main'
+# [params]
+#   #BookLogo = 'devopsbible-logo.png'
+#   BookRepo = 'https://github.com/mrn55/devopsbible'
+#   BookCommitPath = 'commit'
+#   BookEditPath = 'edit/main'
 
 #[menu]
 ## [[menu.before]]
