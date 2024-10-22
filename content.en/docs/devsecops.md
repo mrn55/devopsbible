@@ -3,7 +3,6 @@ title: "DevSecOps"
 date: 2024-10-02T17:56:54-07:00
 draft: false
 type: "docs"
-weight: 3
 ---
 
 # DevSecOps Overview
