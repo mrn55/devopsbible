@@ -3,7 +3,7 @@ title: "DevOps Bible"
 type: docs
 ---
 
-## Introduction to DevOps
+# Introduction to DevOps
 
 - **Definition & Philosophy**
   - A portmanteau of **"Development"** and **"Operations"** - DevOps is a cultural and technical movement aimed at unifying and improving the collaboration between software development and IT operations teams. This approach breaks down the traditional silos between these two functions to enable continuous integration, continuous delivery (CI/CD), and faster, more reliable software releases.
