@@ -9,7 +9,7 @@ theme = "hugo-book"
 sectionPagesMenu = 'main'
 
 #enableGitInfo = true
-
+enableRobotsTXT = true
 
 [languages]
 [languages.en]
