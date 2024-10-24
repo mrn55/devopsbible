@@ -16,6 +16,10 @@ sectionPagesMenu = 'main'
   languageName = 'English'
   contentDir = 'content.en'
   weight = 1
+[languages.es]
+  languageName = 'Spanish'
+  contentDir = 'content.es'
+  weight = 2
 
 # [params]
 #   #BookLogo = 'devopsbible-logo.png'
