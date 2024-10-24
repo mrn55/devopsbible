@@ -35,6 +35,8 @@ Understanding how DevOps principles intersect with systems architecture will hel
 
 ### Data Flow and Storage Systems
 
+For a more comprehesive look at data flow and storage systems, check out [this article](/docs/systems-design/data-flow/).
+
 - Designing for high throughput and low-latency data processing.
 - Types of databases (SQL vs. NoSQL, in-memory databases) and their DevOps use cases.
 - Database replication, sharding, and backup strategies in a DevOps pipeline.
